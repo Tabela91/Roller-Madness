@@ -5,7 +5,7 @@ using System.Collections;
 
 public class Chaser : MonoBehaviour {
 	
-	public float speed = 20.0f;
+	public float speed = 150.0f;
 	public float minDist = 1f;
 	public Transform target;
 
